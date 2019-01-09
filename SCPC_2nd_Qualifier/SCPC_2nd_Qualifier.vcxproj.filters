@@ -24,5 +24,11 @@
     <ClCompile Include="main_4th.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="main_5th.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main_6th.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
